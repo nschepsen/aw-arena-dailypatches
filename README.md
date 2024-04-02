@@ -7,9 +7,10 @@
 
 **A**WArena!**D**AILYPATCHES is a patch collection for AWA daily quests
 
-### QUESTS ###
+### DAILY QUESTS ###
 
-* Match IT <sub>updated on April 1st, 2024</sub>
+* Match IT <sub>April 1st, 2024</sub>
+* Word Fury <sub>latest update on April 2nd, 2024</sub>
 
 ## USAGE ##
 
@@ -19,9 +20,15 @@ Use Local Overrides in Chrome Devtools
 
 ![Day 1 matchit US AWA Fruit Blade](docs/img/day-1-matchit-us-awa-fruit-blade.gif)
 
+![Day 2 wordfury US AWA Fruit Blade](docs/img/day-2-wordfury-us-awa-fruit-blade.gif)
+
 ## CHANGELOG ##
 
-### **AWA**rena!**D**AILYPATCHES, updated @ 2024-04-01 ###
+### **AWA**rena!**D**AILYPATCHES, April 2nd, 2024 ###
+
+* patch "Day 2 wordfury US AWA Fruit Blade"
+
+### **AWA**rena!**D**AILYPATCHES, April 1st, 2024 ###
 
 * patch "Day 1 matchit US AWA Fruit Blade"
 
