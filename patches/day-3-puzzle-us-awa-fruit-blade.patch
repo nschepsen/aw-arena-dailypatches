@@ -1,0 +1,5 @@
+252a253,256
+>   iconList[iconIndex].x = iconList[iconIndex].xtarget;
+>   iconList[iconIndex].y = iconList[iconIndex].ytarget;
+>   iconList[iconIndex].dist = 0;
+> 
