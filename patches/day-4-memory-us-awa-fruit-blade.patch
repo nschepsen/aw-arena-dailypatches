@@ -1,0 +1,6 @@
+263c263
+<     btnIndex = event.target.index;
+---
+>     btnIndex = btnList.findIndex(x=>x.slot === cycleLiveList[userClickedList.length]);
+888d887
+< 
