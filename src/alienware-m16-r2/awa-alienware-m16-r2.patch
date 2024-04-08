@@ -1,0 +1,6 @@
+1163c1163
+<   sceneIndex += 1;
+---
+>   sceneIndex = sceneMax;
+2396d2395
+< 
