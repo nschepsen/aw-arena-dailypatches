@@ -19,7 +19,7 @@
 * Word Fury <sub>April 2nd, 2024</sub> [[Preview](preview/day-2-wordfury-us-awa-fruit-blade.gif)] [[Source](https://secure.cataboom.com/remote/day-2-wordfury-us-awa-fruit-blade-entry/assets/js/mechanic.js)]
 
 #### BONUS GAMES ####  
-* Fruit Blade <sub>latest update on April 8th, 2024</sub> [[Preview](preview/restricted-us-awa-fruit-blade-game)] [[Source](https://secure.cataboom.com/game/restricted-us-awa-fruit-blade-game/660e9204-6d57-49ee-836d-e309003b6adb/game.js)]
+* Fruit Blade <sub>latest update on April 8th, 2024</sub> [[Preview](preview/restricted-us-awa-fruit-blade-game.gif)] [[Source](https://secure.cataboom.com/game/restricted-us-awa-fruit-blade-game/660e9204-6d57-49ee-836d-e309003b6adb/game.js)]
   
 ## USAGE ##
 
