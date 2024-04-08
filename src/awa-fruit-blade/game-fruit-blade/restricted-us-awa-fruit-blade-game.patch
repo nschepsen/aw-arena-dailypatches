@@ -1,0 +1,25 @@
+14441c14441
+<         for (var _0x4989ee = this['nodeList'][this['nodeList']['length'] - 0x1], _0x4fe1d7 = this['nodeList'][this['nodeList']['length'] - 0x2], _0x48b1ab = [], _0x195cfd = this['control']['spawner']['fruitList'], _0x51a7ef = 0x0; _0x51a7ef < _0x195cfd['length']; _0x51a7ef++) {
+---
+>         for (var _0x4989ee = this['nodeList'][this['nodeList']['length'] - 0x1], _0x4fe1d7 = this['nodeList'][this['nodeList']['length'] - 0x2], _0x195cfd = this['control']['spawner']['fruitList'], _0x51a7ef = 0x0; _0x51a7ef < _0x195cfd['length']; _0x51a7ef++) {
+14444,14446c14444
+<             _0x48b1ab['push'](_0x3aafee);
+<             var _0xbb08a0 = _0x3aafee['detectIntersect'](_0x4fe1d7, _0x4989ee);
+<             _0xbb08a0 && (_0xbb08a0 = {},
+---
+>             var _0xbb08a0 = {};
+14449c14447
+<             _0x3aafee['slash'](_0xbb08a0));
+---
+>             _0x3aafee['slash'](_0xbb08a0);
+14452,14461d14449
+<         _0x48b1ab = [];
+<         _0x195cfd = this['control']['spawner']['bombList'];
+<         for (_0x51a7ef = 0x0; _0x51a7ef < _0x195cfd['length']; _0x51a7ef++)
+<           if (_0x3aafee = _0x195cfd[_0x51a7ef],
+<           !_0x3aafee['_killed'] && !_0x3aafee['isSlashed'] && (_0x48b1ab['push'](_0x3aafee),
+<           _0x3aafee['detectIntersect'](_0x4fe1d7, _0x4989ee)))
+<             _0xbb08a0 = {},
+<             _0xbb08a0['x'] = _0x4989ee['x'] - _0x4fe1d7['x'],
+<             _0xbb08a0['y'] = _0x4989ee['y'] - _0x4fe1d7['y'],
+<             _0x3aafee['slash'](_0xbb08a0);
